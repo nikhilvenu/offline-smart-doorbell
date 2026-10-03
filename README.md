@@ -1,6 +1,7 @@
 # Offline Smart Doorbell
 
 ECE 535 Project Fall 2026
+By Nikhil Venugopal, Sahil Gulati, and Hanosh Parakh
 
 ## Motivation
 Most smart doorbells send video to the cloud, which costs money, adds latency, and raises privacy concerns. We want a doorbell that does all of its recognition on a small edge device, so nothing leaves the house and it still works without internet.
