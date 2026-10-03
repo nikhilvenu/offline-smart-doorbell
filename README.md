@@ -1,6 +1,6 @@
 # Offline Smart Doorbell
 
-EC-ENG 535/635 (Fall 2026) course project
+ECE 535 Project Fall 2026
 
 ## Motivation
 Most smart doorbells send video to the cloud, which costs money, adds latency, and raises privacy concerns. We want a doorbell that does all of its recognition on a small edge device, so nothing leaves the house and it still works without internet.
