@@ -34,12 +34,12 @@ Hardware: Raspberry Pi, Pi camera module, (optional) speaker or LED for alerts
 Software: Python, TensorFlow Lite, OpenCV, Google Colab for any training or fine-tuning
 
 ## Team Responsibilities
-- Setup (Pi, camera, OS, dependencies): [Name]
+- Setup (Pi, camera, OS, dependencies): Sahil
 - Software (main pipeline and integration): Nikhil, ___
-- Networking (alerts/notifications): Nikhil, ___
+- Networking (alerts/notifications): Nikhil, Sahil
 - Writing (README, report, documentation): [Name]
 - Research (models, datasets, papers): [Name]
-- Algorithm design (detection and embedding matching, evaluation): Nikhil, ___
+- Algorithm design (detection and embedding matching, evaluation): Nikhil, Sahil
 
 ## Timeline
 - Week 1: Set up repo, get Pi and camera working, finish literature review
