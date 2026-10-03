@@ -35,11 +35,11 @@ Software: Python, TensorFlow Lite, OpenCV, Google Colab for any training or fine
 
 ## Team Responsibilities
 - Setup (Pi, camera, OS, dependencies): [Name]
-- Software (main pipeline and integration): [Name]
-- Networking (alerts/notifications): [Name]
+- Software (main pipeline and integration): Nikhil, ___
+- Networking (alerts/notifications): Nikhil, ___
 - Writing (README, report, documentation): [Name]
 - Research (models, datasets, papers): [Name]
-- Algorithm design (detection and embedding matching, evaluation): [Name]
+- Algorithm design (detection and embedding matching, evaluation): Nikhil, ___
 
 ## Timeline
 - Week 1: Set up repo, get Pi and camera working, finish literature review
