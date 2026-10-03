@@ -35,10 +35,10 @@ Software: Python, TensorFlow Lite, OpenCV, Google Colab for any training or fine
 
 ## Team Responsibilities
 - Setup (Pi, camera, OS, dependencies): Sahil
-- Software (main pipeline and integration): Nikhil, ___
+- Software (main pipeline and integration): Nikhil, Hanosh
 - Networking (alerts/notifications): Nikhil, Sahil
-- Writing (README, report, documentation): [Name]
-- Research (models, datasets, papers): [Name]
+- Writing (README, report, documentation): Hanosh
+- Research (models, datasets, papers): Hanosh
 - Algorithm design (detection and embedding matching, evaluation): Nikhil, Sahil
 
 ## Timeline
